@@ -1,4 +1,4 @@
-package de.hfu;
+package de.arnhold;
 
 public class Queue {
    int[] queue;
